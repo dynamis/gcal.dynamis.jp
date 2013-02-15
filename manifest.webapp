@@ -1,0 +1,11 @@
+{
+  "name": "Google Calendar Web",
+  "description": "Load Google Calendar on the Web",
+  "launch_path": "/",
+  "icons": {
+    "32":  "/icons/gcal32.png",
+    "64":  "/icons/gcal64.png",
+    "128": "/icons/gcal128.png",
+    "256": "/icons/gcal256.png"
+  }
+}
